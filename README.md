@@ -1,17 +1,4 @@
-<h1 align="center">
-  Hi, Pedro Amaral. I'm a Principal Developer from Brazil👋
-</h1>
 
-<h5 align="center">a computer engineer. a mathematician. a coder.</h5>
-
-
-<div align="center">
-  <div>
-    I work as principal developer at CVC.
-  </div>
-</div>
-
----
 
 
 <p align="center">
