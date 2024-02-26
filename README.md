@@ -7,16 +7,12 @@
 
 <div align="center">
   <div>
-    I work as principal developer at CVC,
+    I work as principal developer at CVC.
   </div>
-  <div>
-    Passioned in Web / Programming Languages / Hardware</div>
-  </div>
+</div>
 
 ---
-<p align="center">
- <img style="width:700px" src="https://github-readme-stats.vercel.app/api/wakatime?username=pdroamrl&langs_count=5&theme=dark&custom_title=Recently%20used%20languages&layout=compact&hide=Vim%20Script,TOML,JSON,Markdown,Ezhil,Powershell"/>
-</p>
+
 
 <p align="center">
   <img style="width:700px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pdroamrl&theme=chartreuse_dark" />
